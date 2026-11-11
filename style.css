@@ -1,0 +1,46 @@
+body {
+  background-color: #548687;
+  text-align: center;
+}
+
+.button{
+  height: 18vmin;
+  width: 18vmin;
+  font-size:9vmin;
+  background-color: black;
+  color:#ffffc7;
+}
+#buttons{
+  margin:20vmin;
+}
+#output{
+  height:10vmin;
+  font-size: 10vmin;
+}
+.box{
+  display: flex;
+  justify-content: center;
+  gap: 1vmin;
+  margin-bottom: 1vmin;
+}
+
+.button{
+  vertical-align: top;
+}
+#reset{
+    height: 18vmin;
+  width: 18vmin;
+  font-size:4vmin;
+  background-color: black;
+  color:#ffffc7;
+}
+#new{
+  
+    height: 18vmin;
+  width: 18vmin;
+  font-size:4vmin;
+  background-color: black;
+  color:#ffffc7;
+
+  
+}
